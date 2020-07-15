@@ -1,1 +1,1 @@
-# A Recurrent Transformer Network for NovelView Action Synthesis, ECCV 2020
+# A Recurrent Transformer Network for Novel View Action Synthesis, ECCV 2020
